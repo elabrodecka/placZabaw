@@ -3,4 +3,7 @@ zajêcia z GIT
 test konfliktu
 drugi commit
 
+zlo zlo zlo
+
+
 El¿bieta Brodecka
